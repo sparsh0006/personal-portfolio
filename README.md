@@ -19,7 +19,6 @@ A modern, fully responsive personal portfolio website built with **Next.js 14**,
 - 🧠 **Dynamic Content**: Easily update skills, projects, experience, and bio via code or CMS (optional)
 - 🎨 **Subtle Animations**: Smooth scroll and elegant UI transitions
 - 📬 **Contact Form**: Built-in form with input validation and email support
-- ✍️ **Blog Section** *(optional)*: Publish personal blogs or tech write-ups
 
 ---
 
